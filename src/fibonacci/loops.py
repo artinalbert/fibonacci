@@ -8,7 +8,7 @@ def main():
         dic2[i+1] = dic[i]
 
         # dic2[1] = i
-        # will make a new key if not already there (only if on left side of the assignment ioerator!)
+        # will make a new key if not already there (only if on left side of the assignment ioeratorgit !)
         # dic[-1] = i
     print (dic)
     print (dic2)
