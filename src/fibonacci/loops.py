@@ -13,6 +13,7 @@ def main():
     print(dic)
     print(dic2)
 
+    return dic2
 
 if __name__ == "__main__":
     main()
